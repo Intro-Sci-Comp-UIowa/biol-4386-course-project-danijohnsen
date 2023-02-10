@@ -4,9 +4,7 @@
 
 This project seeks to recreate Figure 2, a phylogenetic tree of the dogs indigenous to the Americas and those found in the Jamestown Colony.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+The goal of this project is to reconstruct Figure 2 from the unpublished manuscript of the relationship between ancient DNA and indigenous dogs at the Jamestown Colony. This phylogenetic tree illustrates the situation of Jamestown dogs in the 17th century among the indigenous dog population. 
 
 ## Features
 
