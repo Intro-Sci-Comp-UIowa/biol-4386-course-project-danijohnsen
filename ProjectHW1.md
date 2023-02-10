@@ -2,8 +2,7 @@
 ## The Dogs of _Tsenacomoco_: Jamestown Phylogeny Reconstruction
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+This project seeks to recreate Figure 2, a phylogenetic tree of the dogs indigenous to the Americas and those found in the Jamestown Colony.
 
 - Type some Markdown on the left
 - See HTML in the right
