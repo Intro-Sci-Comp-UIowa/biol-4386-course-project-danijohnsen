@@ -1,5 +1,5 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+
+## The Dogs of _Tsenacomoco_: Jamestown Phylogeny Reconstruction
 
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
