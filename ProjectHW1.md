@@ -28,5 +28,8 @@ Due to the colonization of the Americas during and after Columbus' infiltration,
 
 -Maximum Likelihood Tree RaxML
 
--**Bayesian Phylogenetic Tree using BEAST v1. 10**
+-**Bayesian Phylogenetic Tree using BEAST v1. 10**:
+--Using a fixed mutation rate 1.0 x 10^-7 subsitutions/site/year
+--Using a constant demographic model
+--Using an HKY subsitution model with gamma distribution
 
