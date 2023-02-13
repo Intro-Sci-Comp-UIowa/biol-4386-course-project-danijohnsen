@@ -33,3 +33,4 @@ Due to the colonization of the Americas during and after Columbus' infiltration,
 --Using a constant demographic model
 --Using an HKY subsitution model with gamma distribution
 
+test
