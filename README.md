@@ -26,11 +26,11 @@ Due to the colonization of the Americas during and after Columbus' infiltration,
 
 
 ## Methods
--Raw reads run through PALEOMIX (ancient DNA pipeline)
+-Raw reads run through PALEOMIX (ancient DNA pipeline). PALEOMIX pipelines help to rapidly process HTS data (multiple genetic alignments, in this case).
 
--Multiple Sequence Alignment using MUSCLE
+-Multiple Sequence Alignment using MUSCLE (140 sequences)
 
--Maximum Likelihood Tree RaxML
+-Maximum Likelihood Tree RaxML (may try RAxML-ng 
 
 -**Bayesian Phylogenetic Tree using BEAST v1. 10**:
 --Using a fixed mutation rate 1.0 x 10^-7 subsitutions/site/year
