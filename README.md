@@ -24,6 +24,7 @@ Due to the colonization of the Americas during and after Columbus' infiltration,
 ## Figure
 <img width="1253" alt="Screenshot 2023-02-13 at 1 13 24 PM" src="https://user-images.githubusercontent.com/124938981/218552120-6f217be1-d7a7-4cca-ac35-b54a09f4ac05.png">
 ## Figure
+![Reconstructed Tree](new_tree.png)
 
 
 ## Methods
