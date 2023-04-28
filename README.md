@@ -37,11 +37,11 @@ Jamestown dogs are indicated in red.
 
 ## Reproduced Figure
 
-![Reconstructed](/new_tree.png)
+![Reconstructed](/finaltree.png)
 The relationship pattern shown in the above tree proves indigenous ancestry, specifically with Hopewellian, Mississippian, and Late Woodland dogs, all native to eastern North America. The dogs found at the Jamestown Colony site (highlighted in pink) are clustered within the phylogenetic clade of pre-conatct North American dogs.
 
 
-## Methods
+## Methods (Original Figure)
 -Raw reads run through PALEOMIX (ancient DNA pipeline). PALEOMIX pipelines help to rapidly process HTS data (multiple genetic alignments, in this case).
 
 -Multiple Sequence Alignment using MUSCLE (140 sequences)
@@ -52,3 +52,10 @@ The relationship pattern shown in the above tree proves indigenous ancestry, spe
 --Using a fixed mutation rate 1.0 x 10^-7 subsitutions/site/year
 --Using a constant demographic model
 --Using an HKY subsitution model with gamma distribution
+
+## Methods (Recreated Figure)
+
+-Fasta file aligned in Sequotron
+-ggtree created via Newick file in 
+-RStudio
+
