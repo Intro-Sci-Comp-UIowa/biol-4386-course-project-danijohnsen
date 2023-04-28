@@ -23,13 +23,13 @@ Due to the colonization of the Americas during and after Columbus' infiltration,
 
 Hypotheses suggest various accounts of the extent of indigenous and colonist contact. One theory suggests colonial site dogs show relation to their own European lineage of later dogs; that the dogs at the site were brought by the settlers to the Americas. Alternatively, DNA analysis showing linkage to indigenous dogs, at least maternally, implies dogs were either taken or given from Indigenous peoples to the colonists. Should mitochondrial DNA show association with European dogs, one could expect a tree monophyletic tree separating them from the indigenous clade. In other words, they wouldn't be nested with such close linkage. Under the latter set of circumstances, the dogs would show mitochondrial linkage with Indigenous dogs would result in their being tightly clustered in relationship to the reference native dog genomes.
 
-## Figure
+## Original Figure
 <img width="1253" alt="Screenshot 2023-02-13 at 1 13 24 PM" src="https://user-images.githubusercontent.com/124938981/218552120-6f217be1-d7a7-4cca-ac35-b54a09f4ac05.png"> 
 
-## Figure
+## Reproduced Figure
 
 ![Reconstructed](/new_tree.png)
-
+The relationship pattern shown in the above tree proves indigenous ancestry, specifically with Hopewellian, Mississippian, and Late Woodland dogs, all native to eastern North America. The dogs found at the Jamestown Colony site (highlighted in pink) are clustered within the phylogenetic clade of pre-conatct North American dogs.
 
 
 ## Methods
