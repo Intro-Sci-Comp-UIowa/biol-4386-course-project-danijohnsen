@@ -44,8 +44,10 @@ Colony dogs within Indigenous Dog clades via
 mitochondrial DNA. The outgroup species 
 (coyote) are highlighted in green.*
 
+## Discussion
 
 The relationship pattern shown in the above tree proves indigenous ancestry, specifically with Hopewellian, Mississippian, and Late Woodland dogs, all native to eastern North America. The dogs found at the Jamestown Colony site (highlighted in pink) are clustered within the phylogenetic clade of pre-conatct North American dogs. Certainty regarding the ancestry of these dogs are reasonably limted, because mitochondrial DNA is inherited maternally. The information obtained from nuclear DNA should be the focus of consequent studies. The two plausible explanations for these findings are either that the Jamestown dogs have full indigenous dog ancestry or that they are hybrids of early English male dogs and Indigenous female dogs.
+The presences of indigenous dogs within Jamestown highlights preexisting evidence for an indisputable Indigenous presence at Jamestown during the early 17th century AD. The relationship between Jamestown and Indigenous communities varied, but food and supply subsistence from Native groups, (either given to or stolen by the English), were unquestionably part of their survival mechanism.
 
 ## Materials
 
